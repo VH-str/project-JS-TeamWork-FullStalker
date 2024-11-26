@@ -248,7 +248,7 @@ function createMarkupProjects(images) {
           <h3 class="project-name">${alt}</h3>
 <a
             class="visit-button"
-            href="https://github.com/VH-str/project-JS-TeamWork-FullStalkers"
+            href="https://github.com/VH-str/project-JS-TeamWork-FullStalker"
             target="_blank"
           >
             <span>VISIT</span>
