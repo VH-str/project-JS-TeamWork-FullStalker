@@ -1,4 +1,4 @@
-import icon from '../icons/icons.svg';
+import icon from '../img/icons/icons.svg';
 
 import projectDesk03 from '../img/my_projects/projects-desk-03-min.png';
 import projectDesk03_2x from '../img/my_projects/projects-desk-03@2x-min.png';
